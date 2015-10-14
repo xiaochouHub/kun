@@ -41,7 +41,7 @@
     [self.navigationController.navigationBar setBackgroundImage:[UIImage imageNamed:@"bg_nav@2x.png"] forBarMetrics:UIBarMetricsDefault];
     
     
-    
+    ////////////////////zhong
 
 }
 -(void)timeAction
